@@ -16,7 +16,10 @@ browser = webdriver.Firefox()
 browser.get('http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx')
 assert "Agriculture" in browser.title
 
-for i in range(1, 32):
+for i in range(11, 32):
+	#refresh page each time you get to beginning
+	browser.refresh()
+
 	#sets year and month
 	year = Select(browser.find_element_by_name('ctl00$cphBody$drpDwnYear'))
 	year.select_by_visible_text("2011")
@@ -24,22 +27,26 @@ for i in range(1, 32):
 	month = Select(browser.find_element_by_name('ctl00$cphBody$drpDwnMonth'))
 	month.select_by_visible_text("January")
 
-	wait = WebDriverWait(browser, 10)
+	#wait until the table loads the correct month and year
+	wait = WebDriverWait(browser, 20)
+	#time.sleep(12)
 
 
-	#time.sleep(10) #Hopefully date loads by this time
 	wait.until(EC.text_to_be_present_in_element((By.XPATH, '//table[@id="cphBody_Calendar1"]/tbody/tr[1]/td/table/tbody/tr/td'), "January 2011"))
 
 	date = browser.find_element_by_link_text(str(i))
 	date.click()
 
-
+	#submit button id cphBody_Submit_list
+	#submit = wait.until(EC.presence_of_element_located((By.ID, "cphBody_GridView1_RowLevelCheckBox1_34")))
 	submit = wait.until(EC.presence_of_element_located((By.ID, "cphBody_Submit_list")))
 	submit.click()
 
 	#on the groundnut selection page
-	item = wait.until(EC.presence_of_element_located((By.ID, "cphBody_GridView1_RowLevelCheckBox_36")))
-	item.click()
+	time.sleep(8) #allow user to manually click
+	#item = wait.until(EC.presence_of_element_located((By.ID, "//td[normalize-space() = 'Groundnut']")))
+	#item = wait.until(EC.presence_of_element_located((By.XPATH, ".//*[contains(text(), 'Groundnut')]")))
+	#item.click()
 
 	item_submit = wait.until(EC.presence_of_element_located((By.ID, "cphBody_btnSubmit")))
 	item_submit.click()

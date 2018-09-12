@@ -717,3 +717,84 @@ JavaScript error: about:newtab, line 960: TypeError: gSnippetsMap.getTotalBookma
 1536608354021	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
 1536608354310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
 1536608354515	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608777136	geckodriver	INFO	geckodriver 0.21.0
+1536608777140	geckodriver	INFO	Listening on 127.0.0.1:48333
+1536608778152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nVLz7y0T8MpQ"
+1536608778665	Marionette	INFO	Enabled via --marionette
+1536608780072	Marionette	INFO	Listening on port 43871
+1536608780181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536608780259	Marionette	DEBUG	Register listener.js for window 2147483649
+1536608780284	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536608783148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536608783150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536608785167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608786721	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608786767	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608787412	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608787434	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608789503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608791043	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608791340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608791699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608796267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608798433	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608801167	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608801181	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608801442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608802462	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608802790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608802818	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608805882	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608805899	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608806185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608807138	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608807224	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608812463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608812469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608813192	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608813209	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608813500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608813670	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608813679	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608814100	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608814122	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608814461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608814598	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608814604	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608815251	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608815303	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608817196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608819146	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608819449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608819687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608824141	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608826282	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608828651	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608828661	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608828948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608829899	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608830210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608830235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608833155	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608833172	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608833413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608834312	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608834372	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608839573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608839579	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608840271	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608840280	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/commoditywisedailyreport3.aspx"
+1536608840679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608840840	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608840845	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608841254	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608841268	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport2.aspx"
+1536608841510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608841679	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608841689	Marionette	DEBUG	Received DOM event "beforeunload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608842339	Marionette	DEBUG	Received DOM event "pagehide" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608842374	Marionette	DEBUG	Received DOM event "unload" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608844379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608846240	Marionette	DEBUG	Received DOM event "pageshow" for "http://agmarknet.gov.in/PriceAndArrivals/CommodityWiseDailyReport.aspx"
+1536608846534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536608846856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
